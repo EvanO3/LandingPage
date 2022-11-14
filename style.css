@@ -115,3 +115,12 @@ p{
     color:black;
 
 }
+.Quote-section{
+    margin:40px;
+    display:flex;
+    justify-content:center;
+    font-size: 36px;
+    background-color:#E5E7EB;
+    padding:30px;
+   
+}
