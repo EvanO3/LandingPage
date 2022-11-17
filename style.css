@@ -8,6 +8,7 @@ body {
     overflow: hidden;
    
   }
+
 .Header{
     display:flex;
     justify-content:space-around;
@@ -67,7 +68,7 @@ h4{
 p{
 
     font-size:18px;
-    color: #e5e7eb;;
+    color: #e5e7eb;
 }
 
 .button{
@@ -92,6 +93,7 @@ p{
     display:flex;
     align-items:center;
     justify-content:space-between;
+    
 
 }
 
@@ -100,7 +102,7 @@ p{
 .fame2{
     width: 250px;
     height: 250px;
-    margin:3px;
+    margin:0px;
     padding:30px;
 }
 
@@ -147,4 +149,54 @@ h3{
     font-size: 18px;
 
 
+}
+
+.last-section{
+    height:300px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.container{
+    background-color: #3882F6;
+    width:75%;
+    height:40%;
+   
+    display:flex;
+    flex-direction:row;
+}
+
+.left{
+    width:80%;
+    margin-left:100px;
+    display:flex;
+   justify-content:center;
+    flex-direction: column;
+}
+
+.section-h4{
+         font-size:24px;
+         color:white;
+}
+
+.last-p{
+    font-size:18px;
+    color: #e5e7eb;
+}
+
+.right{
+    display:flex;
+    justify-content:flex-start;
+    align-items:center;
+}
+.last-button{
+    padding: 8px 16px;
+    border-radius: 8px;
+    color:white;
+    border: 1px solid white;;
+    background-color: #3882F6;
+    height: 80x;
+    width: 100px;
+    margin:10px;
 }
