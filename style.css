@@ -200,3 +200,15 @@ h3{
     width: 100px;
     margin:10px;
 }
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 75px;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    padding-bottom:200px;
+    font-size:25px;
+
+}
